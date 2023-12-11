@@ -1,0 +1,16 @@
+# pattern
+pattern: Fcms
+# width
+width: 200
+# height
+height: 200
+# offset_x
+offset_x: 0
+# offset_y
+offset_y: 0
+# modify_by_pygetwindows = 1
+use_function: 1
+# selfpos_x自身程序的起始x
+selfpos_x: 400
+# selfpos_y自身程序的起始y
+selfpos_y: 400
